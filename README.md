@@ -11,4 +11,4 @@ You just need to download the files of the project. In your computer open `src/m
 
 Here it is the prototype of the project : 
 
-<img src="src/Img/css.png" alt="Prototype">
+https://raw.githubusercontent.com/Valdouz/college/main/src/Img/Prototype%20css.png?token=ANHPPQ7RDPATJ7SUBZ7DKOTBJHZAO
