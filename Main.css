@@ -1,0 +1,17 @@
+div{
+margin-top: 9rem
+}
+
+a.button{
+    text-decoration: none;
+    color: black;
+    margin-left:340px;
+}
+
+footer.footer{
+    position:absolute;
+    bottom:0;
+    width:100%;
+    padding-top:5px;
+    height:50px;
+}
