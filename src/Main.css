@@ -1,13 +1,15 @@
 div{
-margin-top: 9rem
+    margin-top: 11rem;    
 }
-
+    
+    
 a.button{
     text-decoration: none;
     color: black;
-    margin-left:340px;
-}
-
+    margin-left:485px;
+    border: 2px solid #000000;
+    padding: 1rem 2rem;
+}  
 footer.footer{
     position:absolute;
     bottom:0;
