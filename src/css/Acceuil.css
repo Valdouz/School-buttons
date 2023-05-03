@@ -32,14 +32,8 @@ body {
     margin: 0;
 }
 
-header {
-    display: flex;
-    flex: 1;
-    height: 100vh;
-    justify-content: center;
-}
 
-header h1 {
+h1 {
     display: flex;
     border-bottom: black;
     text-decoration-color: #888;
@@ -48,7 +42,7 @@ header h1 {
 }
 
 .title {
-    margin-top: 4vh;
+    margin-top: 10vh;
     padding: 7vh;
     color: white;
     display: flex;
