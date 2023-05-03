@@ -11,7 +11,8 @@ You just need to download the files of the project. In your computer open `src/m
 
 Here it is the prototype of the project : 
 
-https://raw.githubusercontent.com/Valdouz/college/main/src/Img/Prototype%20css.png?token=ANHPPQ7RDPATJ7SUBZ7DKOTBJHZAO
+
+![css](https://user-images.githubusercontent.com/55506883/236023191-8bd045ac-cbd1-4bfa-9ff1-9d96dabdb1da.png)
 
 ## Update
 
