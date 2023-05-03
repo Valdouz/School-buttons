@@ -51,10 +51,16 @@ header h1 {
     margin-top: 4vh;
     padding: 7vh;
     color: white;
+    display: flex;
 }
 
 .title h1 {
     font-family: 'Roboto', sans-serif;
+    font-size: 5vh;
+}
+
+.title h1.eme {
+    font-size: 3vh;
 }
 
 div.main {
