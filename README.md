@@ -1,6 +1,6 @@
 # School redirection buttons
 
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://fr.wikipedia.org/wiki/Html) [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://fr.wikipedia.org/wiki/JavaScript) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://fr.wikipedia.org/wiki/css)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://fr.wikipedia.org/wiki/Html) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://fr.wikipedia.org/wiki/css)
 
 
 Here is a system of buttons code by [Aeroget](https://github.com/aeroget) and [Valdouz](https://github.com/valdouz).
