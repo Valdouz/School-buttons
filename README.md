@@ -3,7 +3,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://fr.wikipedia.org/wiki/Html) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://fr.wikipedia.org/wiki/css)
 
 
-Here is a system of buttons code by [Aeroget](https://github.com/aeroget) and [Valdouz](https://github.com/valdouz).
+Here is a system of buttons code by [Aeroget](https://github.com/lnk918z) and [Valdouz](https://github.com/valdouz).
 
 ## How to use
 
